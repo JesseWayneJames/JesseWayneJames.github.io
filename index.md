@@ -1,6 +1,6 @@
 ## Welcome to Slinger
 
-You can use the [editor on GitHub](https://github.com/JesseWayneJames/JesseWayneJames.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Slinger is an upcoming revit addin, that does all sorts of things.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
